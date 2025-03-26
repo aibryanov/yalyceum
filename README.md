@@ -8,9 +8,9 @@
 
 | №  | Название | Описание | Статус |
 |----|---------|----------|--------|
-| 1  | [Course intro](homeworks/hw1_ml_intro.ipynb) | Реализация метрик регрессии и KNN | ✅ |
-| 2  | [Linear algebra recap](homeworks/hw2_linalg.ipynb) | Действия над матрицами | ✅ |
-| 3  | [Linear models](homeworks/hw3_linear_models.ipynb) | ohe, minmax-scaler и использование линейный моделей в задаче классификации | ✅ |
-| 4  | [Gradient Descent](homeworks/hw4_gradient_descent.ipynb) | Реализация градиентного спуска для функции одной переменной | ✅ |
-| 5  | [DL intro](homeworks/hw5_deep_learning_intro.ipynb) | Исслдеование полносвязных моделей и регуляризации | ✅ |
+| 1  | [Course intro](homeworks/hw1_ml_intro) | Реализация метрик регрессии и KNN | ✅ |
+| 2  | [Linear algebra recap](homeworks/hw2_linalg) | Действия над матрицами | ✅ |
+| 3  | [Linear models](homeworks/hw3_linear_models) | ohe, minmax-scaler и использование линейный моделей в задаче классификации | ✅ |
+| 4  | [Gradient Descent](homeworks/hw4_gradient_descent) | Реализация градиентного спуска для функции одной переменной | ✅ |
+| 5  | [DL intro](homeworks/hw5_deep_learning_intro) | Исслдеование полносвязных моделей и регуляризации | ✅ |
 | 6  | TBD | Скоро будет... | ⏳ |
