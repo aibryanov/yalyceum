@@ -13,4 +13,5 @@
 | 3  | [Linear models](homeworks/hw3_linear_models) | ohe, minmax-scaler и использование линейный моделей в задаче классификации | ✅ |
 | 4  | [Gradient Descent](homeworks/hw4_gradient_descent) | Реализация градиентного спуска для функции одной переменной | ✅ |
 | 5  | [DL intro](homeworks/hw5_deep_learning_intro) | Исслдеование полносвязных моделей и регуляризации | ✅ |
-| 6  | TBD | Скоро будет... | ⏳ |
+| 6  | [FashionMNIST](homeworks/hw6_cv_problems) | CNN и skip-connections, сравнение различных архитектур, PyTorch Ignite | ✅ |
+| 7  | TBD | Скоро будет... | ⏳ |
